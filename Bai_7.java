@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class vinhquangbai7 
+public class Bai_7 
 {
     public static void main(String[] args)
     {
