@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bai5chinh 
+public class Bai_5 
 {
     public static void main(String[] args) 
     {

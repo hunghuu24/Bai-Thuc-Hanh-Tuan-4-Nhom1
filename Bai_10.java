@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Bai10chinh 
+public class Bai_10 
 {
     public static void main(String[] args) 
     {
