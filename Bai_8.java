@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class bai8 {
+public class Bai_8 {
     public static void timKiem(int a[], int n) {
     if (n == 0) {
         System.out.println("Mang rong");

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class bai2 {
+public class Bai_2 {
     public static void main(String[] args) 
     {
         Scanner scanner = new Scanner(System.in);
